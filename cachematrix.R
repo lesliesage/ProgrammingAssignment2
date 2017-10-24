@@ -1,5 +1,5 @@
-## This pair of functions computes the invierse of matrix 'x' and caches it, 
-## then either gets and returns the cached copy or computesthe inverse of 'x'.
+## This pair of functions computes the inverse of matrix 'x' and caches it, 
+## then either gets and returns the cached copy or computes the inverse of 'x'.
 
 ## This function computes and caches the inverse of matrix 'x'. 
 
